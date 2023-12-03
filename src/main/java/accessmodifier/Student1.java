@@ -1,6 +1,6 @@
 package accessmodifier;
 
-public class Student {
+public class Student1 {
 
     public String name;
     protected int age;
